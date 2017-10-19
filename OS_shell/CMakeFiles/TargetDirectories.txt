@@ -1,0 +1,3 @@
+/home/pi/Documents/CS3100/OS_shell/CMakeFiles/edit_cache.dir
+/home/pi/Documents/CS3100/OS_shell/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/CS3100/OS_shell/CMakeFiles/OS_shell.dir

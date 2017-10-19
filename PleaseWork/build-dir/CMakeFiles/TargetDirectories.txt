@@ -1,0 +1,3 @@
+/home/pi/Documents/PleaseWork/build-dir/CMakeFiles/edit_cache.dir
+/home/pi/Documents/PleaseWork/build-dir/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/PleaseWork/build-dir/CMakeFiles/Assign2.dir
